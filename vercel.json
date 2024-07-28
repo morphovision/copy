@@ -1,6 +1,0 @@
-{
-    "rewrites": [
-      { "source": "/photos/:path*", "destination": "/path/to/photos/:path*" }
-    ]
-  }
-  
